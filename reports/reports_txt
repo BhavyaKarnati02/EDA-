@@ -1,0 +1,28 @@
+EXPLORATORY DATA ANALYSIS PROJECT
+
+Objective:
+To analyze a real-world layoffs dataset and identify patterns, trends, and relationships through statistical analysis and visualization.
+
+Techniques Used:
+
+* Data Exploration
+* Statistical Summary
+* Correlation Analysis
+* Data Visualization
+
+Visualizations:
+
+1. Distribution of Layoffs
+2. Top Companies by Layoffs
+3. Top Countries by Layoffs
+4. Correlation Heatmap
+
+Key Insights:
+
+* Layoffs are concentrated among a small number of companies.
+* Certain countries contribute significantly to overall layoffs.
+* Funding levels and layoffs show measurable relationships.
+* Layoff trends vary across industries and time periods.
+
+Conclusion:
+The project successfully identified meaningful patterns and trends within the dataset using exploratory data analysis techniques.
